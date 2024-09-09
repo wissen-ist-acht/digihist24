@@ -1,12 +1,12 @@
 ---
 submission_id: 499
+categories: 'Session 5A'
 title: Go Digital, They Said. It Will Be Fun, They Said. Teaching DH Methods for Historical Research 
 author:
   - name: Ina Serif
     orcid: 0000-0003-2419-4252
     email: ina.serif@unibas.ch
-    affiliations:
-      - University Basel, Switzerland
+    affiliation: University Basel, Switzerland
 keywords:
   - teaching computer-assisted methods
   - digital history
